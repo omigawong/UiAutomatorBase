@@ -1,0 +1,7581 @@
+Added file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for TestBrower...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\TestBrower.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+188 KB/s (5023 bytes in 0.026s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.TestBrower:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDemo
+
+INSTRUMENTATION_STATUS: class=com.tcl.TestBrower
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDemo
+
+INSTRUMENTATION_STATUS: class=com.tcl.TestBrower
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 17.798
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for TestBrower...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\TestBrower.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+891 KB/s (5023 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.TestBrower:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDemo
+
+INSTRUMENTATION_STATUS: class=com.tcl.TestBrower
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDemo
+
+INSTRUMENTATION_STATUS: class=com.tcl.TestBrower
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 16.428
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 4 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+602 KB/s (5247 bytes in 0.008s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.Demo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDevice
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testDevice:
+
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.android.uiautomator.core.UiDevice.pressMenu()' on a null object reference
+
+	at com.tcl.Demo2.press(Demo2.java:7)
+
+	at com.tcl.Demo.testDevice(Demo.java:12)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDevice
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: stack=java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.android.uiautomator.core.UiDevice.pressMenu()' on a null object reference
+
+	at com.tcl.Demo2.press(Demo2.java:7)
+
+	at com.tcl.Demo.testDevice(Demo.java:12)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 0.014
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+927 KB/s (5224 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.Demo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDevice
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDevice
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.583
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+580 KB/s (5355 bytes in 0.009s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.Demo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDevice
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDevice
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.53
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+       [dx] 
+       [dx] UNEXPECTED TOP-LEVEL EXCEPTION:
+       [dx] java.lang.RuntimeException: Exception parsing classes
+       [dx] 	at com.android.dx.command.dexer.Main.processClass(Main.java:752)
+       [dx] 	at com.android.dx.command.dexer.Main.processFileBytes(Main.java:718)
+       [dx] 	at com.android.dx.command.dexer.Main.access$1200(Main.java:85)
+       [dx] 	at com.android.dx.command.dexer.Main$FileBytesConsumer.processFileBytes(Main.java:1645)
+       [dx] 	at com.android.dx.cf.direct.ClassPathOpener.processOne(ClassPathOpener.java:170)
+       [dx] 	at com.android.dx.cf.direct.ClassPathOpener.processDirectory(ClassPathOpener.java:229)
+       [dx] 	at com.android.dx.cf.direct.ClassPathOpener.processOne(ClassPathOpener.java:158)
+       [dx] 	at com.android.dx.cf.direct.ClassPathOpener.processDirectory(ClassPathOpener.java:229)
+       [dx] 	at com.android.dx.cf.direct.ClassPathOpener.processOne(ClassPathOpener.java:158)
+       [dx] 	at com.android.dx.cf.direct.ClassPathOpener.processDirectory(ClassPathOpener.java:229)
+       [dx] 	at com.android.dx.cf.direct.ClassPathOpener.processOne(ClassPathOpener.java:158)
+       [dx] 	at com.android.dx.cf.direct.ClassPathOpener.process(ClassPathOpener.java:144)
+       [dx] 	at com.android.dx.command.dexer.Main.processOne(Main.java:672)
+       [dx] 	at com.android.dx.command.dexer.Main.processAllFiles(Main.java:574)
+       [dx] 	at com.android.dx.command.dexer.Main.runMonoDex(Main.java:311)
+       [dx] 	at com.android.dx.command.dexer.Main.run(Main.java:277)
+       [dx] 	at com.android.dx.command.dexer.Main.main(Main.java:245)
+       [dx] 	at com.android.dx.command.Main.main(Main.java:106)
+       [dx] Caused by: com.android.dx.cf.iface.ParseException: class name (com/tcl/demo) does not match path (com/tcl/Demo.class)
+       [dx] 	at com.android.dx.cf.direct.DirectClassFile.parse0(DirectClassFile.java:520)
+       [dx] 	at com.android.dx.cf.direct.DirectClassFile.parse(DirectClassFile.java:406)
+       [dx] 	at com.android.dx.cf.direct.DirectClassFile.parseToInterfacesIfNecessary(DirectClassFile.java:388)
+       [dx] 	at com.android.dx.cf.direct.DirectClassFile.getMagic(DirectClassFile.java:251)
+       [dx] 	at com.android.dx.command.dexer.Main.parseClass(Main.java:764)
+       [dx] 	at com.android.dx.command.dexer.Main.access$1500(Main.java:85)
+       [dx] 	at com.android.dx.command.dexer.Main$ClassParserTask.call(Main.java:1684)
+       [dx] 	at com.android.dx.command.dexer.Main.processClass(Main.java:749)
+       [dx] 	... 17 more
+       [dx] 1 error; aborting
+
+BUILD FAILED
+F:\adt-bundle-windows-x86_64-20140702\sdk\tools\ant\uibuild.xml:198: null returned: 1
+
+Total time: 3 seconds
+497 KB/s (5355 bytes in 0.010s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.Demo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in testPress:
+
+junit.framework.AssertionFailedError: Method "testPress" not found
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: Method "testPress" not found
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 0.035
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1763 KB/s (5418 bytes in 0.003s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.Demo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.562
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+627 KB/s (5459 bytes in 0.008s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.Demo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.061
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1543 KB/s (5533 bytes in 0.003s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.Demo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.094
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 4 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1036 KB/s (5841 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.Demo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDragAndSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in testDragAndSwipe:
+
+junit.framework.AssertionFailedError: Method "testDragAndSwipe" not found
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDragAndSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.Demo
+
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: Method "testDragAndSwipe" not found
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 0.017
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+815 KB/s (5849 bytes in 0.007s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.DragAndSwipe:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDragAndSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDragAndSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.041
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1038 KB/s (5848 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.DragAndSwipe:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDragAndSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDragAndSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.941
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1268 KB/s (5846 bytes in 0.004s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.DragAndSwipe:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDrag
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDrag
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.907
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+778 KB/s (5978 bytes in 0.007s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.DragAndSwipe:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testSwip
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testSwip
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.592
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+530 KB/s (5978 bytes in 0.011s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.DragAndSwipe:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testSwip
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testSwip
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.564
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+578 KB/s (6224 bytes in 0.010s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.DragAndSwipe:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPointSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPointSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 9.649
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1111 KB/s (6261 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.DragAndSwipe:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPointSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPointSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 11.787
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1110 KB/s (6257 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.tcl.DragAndSwipe:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPointSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPointSwipe
+
+INSTRUMENTATION_STATUS: class=com.tcl.DragAndSwipe
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 7.096
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 8 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 7 seconds
+error: no devices found
+error: no devices found
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for WakeupAndSleep...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\WakeupAndSleep.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+223 KB/s (7541 bytes in 0.033s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.WakeupAndSleep:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWakeupAndSleep
+
+INSTRUMENTATION_STATUS: class=com.eco.WakeupAndSleep
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWakeupAndSleep
+
+INSTRUMENTATION_STATUS: class=com.eco.WakeupAndSleep
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.044
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for WakeupAndSleep...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\WakeupAndSleep.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+1338 KB/s (7541 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.WakeupAndSleep:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWakeupAndSleep
+
+INSTRUMENTATION_STATUS: class=com.eco.WakeupAndSleep
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWakeupAndSleep
+
+INSTRUMENTATION_STATUS: class=com.eco.WakeupAndSleep
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.524
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ScreenshotAndIdle...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ScreenshotAndIdle.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1073 KB/s (7695 bytes in 0.007s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.ScreenshotAndIdle:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testScreenshot
+
+INSTRUMENTATION_STATUS: class=com.eco.ScreenshotAndIdle
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testScreenshot
+
+INSTRUMENTATION_STATUS: class=com.eco.ScreenshotAndIdle
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.234
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ScreenshotAndIdle...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ScreenshotAndIdle.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1687 KB/s (7777 bytes in 0.004s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.ScreenshotAndIdle:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWaitIdle
+
+INSTRUMENTATION_STATUS: class=com.eco.ScreenshotAndIdle
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWaitIdle
+
+INSTRUMENTATION_STATUS: class=com.eco.ScreenshotAndIdle
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.745
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ScreenshotAndIdle...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ScreenshotAndIdle.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+957 KB/s (7848 bytes in 0.008s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.ScreenshotAndIdle:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetPackageName
+
+INSTRUMENTATION_STATUS: class=com.eco.ScreenshotAndIdle
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+com.android.browser
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetPackageName
+
+INSTRUMENTATION_STATUS: class=com.eco.ScreenshotAndIdle
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.512
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ScreenshotAndIdle...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ScreenshotAndIdle.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+965 KB/s (7909 bytes in 0.008s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.ScreenshotAndIdle:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetPackageName
+
+INSTRUMENTATION_STATUS: class=com.eco.ScreenshotAndIdle
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+com.android.browser
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetPackageName
+
+INSTRUMENTATION_STATUS: class=com.eco.ScreenshotAndIdle
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.515
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for UiDeviceDemo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+cannot stat 'F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo .jar': No such file or directory
+Error: /data/local/tmp/UiDeviceDemo does not exist
+
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+Usage: uiautomator <subcommand> [options]
+
+
+
+Available subcommands:
+
+
+
+help: displays help message
+
+
+
+runtest: executes UI automation tests
+
+    runtest <class spec> [options]
+
+    <class spec>: <JARS> < -c <CLASSES> | -e class <CLASSES> >
+
+      <JARS>: a list of jar files containing test classes and dependencies. If
+
+        the path is relative, it's assumed to be under /data/local/tmp. Use
+
+        absolute path if the file is elsewhere. Multiple files can be
+
+        specified, separated by space.
+
+      <CLASSES>: a list of test class names to run, separated by comma. To
+
+        a single method, use TestClass#testMethod format. The -e or -c option
+
+        may be repeated. This option is not required and if not provided then
+
+        all the tests in provided jars will be run automatically.
+
+    options:
+
+      --nohup: trap SIG_HUP, so test won't terminate even if parent process
+
+               is terminated, e.g. USB is disconnected.
+
+      -e debug [true|false]: wait for debugger to connect before starting.
+
+      -e runner [CLASS]: use specified test runner class instead. If
+
+        unspecified, framework default runner will be used.
+
+      -e <NAME> <VALUE>: other name-value pairs to be passed to test classes.
+
+        May be repeated.
+
+      -e outputFormat simple | -s: enabled less verbose JUnit style output.
+
+
+
+dump: creates an XML dump of current UI hierarchy
+
+    dump [--verbose][file]
+
+      [--compressed]: dumps compressed layout information.
+
+      [file]: the location where the dumped XML should be stored, default is
+
+      /storage/emulated/legacy/window_dump.xml
+
+
+
+events: prints out accessibility events until terminated
+
+
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for UiDeviceDemo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+cannot stat 'F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo .jar': No such file or directory
+Error: /data/local/tmp/UiDeviceDemo does not exist
+
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+Usage: uiautomator <subcommand> [options]
+
+
+
+Available subcommands:
+
+
+
+help: displays help message
+
+
+
+runtest: executes UI automation tests
+
+    runtest <class spec> [options]
+
+    <class spec>: <JARS> < -c <CLASSES> | -e class <CLASSES> >
+
+      <JARS>: a list of jar files containing test classes and dependencies. If
+
+        the path is relative, it's assumed to be under /data/local/tmp. Use
+
+        absolute path if the file is elsewhere. Multiple files can be
+
+        specified, separated by space.
+
+      <CLASSES>: a list of test class names to run, separated by comma. To
+
+        a single method, use TestClass#testMethod format. The -e or -c option
+
+        may be repeated. This option is not required and if not provided then
+
+        all the tests in provided jars will be run automatically.
+
+    options:
+
+      --nohup: trap SIG_HUP, so test won't terminate even if parent process
+
+               is terminated, e.g. USB is disconnected.
+
+      -e debug [true|false]: wait for debugger to connect before starting.
+
+      -e runner [CLASS]: use specified test runner class instead. If
+
+        unspecified, framework default runner will be used.
+
+      -e <NAME> <VALUE>: other name-value pairs to be passed to test classes.
+
+        May be repeated.
+
+      -e outputFormat simple | -s: enabled less verbose JUnit style output.
+
+
+
+dump: creates an XML dump of current UI hierarchy
+
+    dump [--verbose][file]
+
+      [--compressed]: dumps compressed layout information.
+
+      [file]: the location where the dumped XML should be stored, default is
+
+      /storage/emulated/legacy/window_dump.xml
+
+
+
+events: prints out accessibility events until terminated
+
+
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for UiDeviceDemo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+cannot stat 'F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo .jar': No such file or directory
+Error: /data/local/tmp/UiDeviceDemo does not exist
+
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+Usage: uiautomator <subcommand> [options]
+
+
+
+Available subcommands:
+
+
+
+help: displays help message
+
+
+
+runtest: executes UI automation tests
+
+    runtest <class spec> [options]
+
+    <class spec>: <JARS> < -c <CLASSES> | -e class <CLASSES> >
+
+      <JARS>: a list of jar files containing test classes and dependencies. If
+
+        the path is relative, it's assumed to be under /data/local/tmp. Use
+
+        absolute path if the file is elsewhere. Multiple files can be
+
+        specified, separated by space.
+
+      <CLASSES>: a list of test class names to run, separated by comma. To
+
+        a single method, use TestClass#testMethod format. The -e or -c option
+
+        may be repeated. This option is not required and if not provided then
+
+        all the tests in provided jars will be run automatically.
+
+    options:
+
+      --nohup: trap SIG_HUP, so test won't terminate even if parent process
+
+               is terminated, e.g. USB is disconnected.
+
+      -e debug [true|false]: wait for debugger to connect before starting.
+
+      -e runner [CLASS]: use specified test runner class instead. If
+
+        unspecified, framework default runner will be used.
+
+      -e <NAME> <VALUE>: other name-value pairs to be passed to test classes.
+
+        May be repeated.
+
+      -e outputFormat simple | -s: enabled less verbose JUnit style output.
+
+
+
+dump: creates an XML dump of current UI hierarchy
+
+    dump [--verbose][file]
+
+      [--compressed]: dumps compressed layout information.
+
+      [file]: the location where the dumped XML should be stored, default is
+
+      /storage/emulated/legacy/window_dump.xml
+
+
+
+events: prints out accessibility events until terminated
+
+
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for UiDeviceDemo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+cannot stat 'F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo .jar': No such file or directory
+Error: /data/local/tmp/UiDeviceDemo does not exist
+
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+Usage: uiautomator <subcommand> [options]
+
+
+
+Available subcommands:
+
+
+
+help: displays help message
+
+
+
+runtest: executes UI automation tests
+
+    runtest <class spec> [options]
+
+    <class spec>: <JARS> < -c <CLASSES> | -e class <CLASSES> >
+
+      <JARS>: a list of jar files containing test classes and dependencies. If
+
+        the path is relative, it's assumed to be under /data/local/tmp. Use
+
+        absolute path if the file is elsewhere. Multiple files can be
+
+        specified, separated by space.
+
+      <CLASSES>: a list of test class names to run, separated by comma. To
+
+        a single method, use TestClass#testMethod format. The -e or -c option
+
+        may be repeated. This option is not required and if not provided then
+
+        all the tests in provided jars will be run automatically.
+
+    options:
+
+      --nohup: trap SIG_HUP, so test won't terminate even if parent process
+
+               is terminated, e.g. USB is disconnected.
+
+      -e debug [true|false]: wait for debugger to connect before starting.
+
+      -e runner [CLASS]: use specified test runner class instead. If
+
+        unspecified, framework default runner will be used.
+
+      -e <NAME> <VALUE>: other name-value pairs to be passed to test classes.
+
+        May be repeated.
+
+      -e outputFormat simple | -s: enabled less verbose JUnit style output.
+
+
+
+dump: creates an XML dump of current UI hierarchy
+
+    dump [--verbose][file]
+
+      [--compressed]: dumps compressed layout information.
+
+      [file]: the location where the dumped XML should be stored, default is
+
+      /storage/emulated/legacy/window_dump.xml
+
+
+
+events: prints out accessibility events until terminated
+
+
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for WakeupAndSleep...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\WakeupAndSleep.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+806 KB/s (8264 bytes in 0.010s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.WakeupAndSleep:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWakeupAndSleep
+
+INSTRUMENTATION_STATUS: class=com.eco.WakeupAndSleep
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWakeupAndSleep
+
+INSTRUMENTATION_STATUS: class=com.eco.WakeupAndSleep
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.023
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for UiDeviceDemo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+cannot stat 'F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo .jar': No such file or directory
+Error: /data/local/tmp/UiDeviceDemo does not exist
+
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+Usage: uiautomator <subcommand> [options]
+
+
+
+Available subcommands:
+
+
+
+help: displays help message
+
+
+
+runtest: executes UI automation tests
+
+    runtest <class spec> [options]
+
+    <class spec>: <JARS> < -c <CLASSES> | -e class <CLASSES> >
+
+      <JARS>: a list of jar files containing test classes and dependencies. If
+
+        the path is relative, it's assumed to be under /data/local/tmp. Use
+
+        absolute path if the file is elsewhere. Multiple files can be
+
+        specified, separated by space.
+
+      <CLASSES>: a list of test class names to run, separated by comma. To
+
+        a single method, use TestClass#testMethod format. The -e or -c option
+
+        may be repeated. This option is not required and if not provided then
+
+        all the tests in provided jars will be run automatically.
+
+    options:
+
+      --nohup: trap SIG_HUP, so test won't terminate even if parent process
+
+               is terminated, e.g. USB is disconnected.
+
+      -e debug [true|false]: wait for debugger to connect before starting.
+
+      -e runner [CLASS]: use specified test runner class instead. If
+
+        unspecified, framework default runner will be used.
+
+      -e <NAME> <VALUE>: other name-value pairs to be passed to test classes.
+
+        May be repeated.
+
+      -e outputFormat simple | -s: enabled less verbose JUnit style output.
+
+
+
+dump: creates an XML dump of current UI hierarchy
+
+    dump [--verbose][file]
+
+      [--compressed]: dumps compressed layout information.
+
+      [file]: the location where the dumped XML should be stored, default is
+
+      /storage/emulated/legacy/window_dump.xml
+
+
+
+events: prints out accessibility events until terminated
+
+
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for UiDeviceDemo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+733 KB/s (8268 bytes in 0.011s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.UiDeviceDemo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testUideviceDemo
+
+INSTRUMENTATION_STATUS: class=com.eco.UiDeviceDemo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testUideviceDemo
+
+INSTRUMENTATION_STATUS: class=com.eco.UiDeviceDemo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 29.124
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for UiDeviceDemo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\UiDeviceDemo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1467 KB/s (8268 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.UiDeviceDemo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testUideviceDemo
+
+INSTRUMENTATION_STATUS: class=com.eco.UiDeviceDemo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testUideviceDemo
+
+INSTRUMENTATION_STATUS: class=com.eco.UiDeviceDemo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 33.229
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 12 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+899 KB/s (10132 bytes in 0.011s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+Unsupported standalone parameter.
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1041 KB/s (10133 bytes in 0.009s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.622
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+2200 KB/s (10142 bytes in 0.004s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.045
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+900 KB/s (10140 bytes in 0.011s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.937
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1430 KB/s (10252 bytes in 0.007s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 24.786
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1819 KB/s (10252 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 24.547
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1548 KB/s (10306 bytes in 0.006s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testLongClick:
+
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.android.uiautomator.core.UiObject.longClick()' on a null object reference
+
+	at com.eco.uiobject.ClickAndLongPress.testLongClick(ClickAndLongPress.java:44)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: stack=java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.android.uiautomator.core.UiObject.longClick()' on a null object reference
+
+	at com.eco.uiobject.ClickAndLongPress.testLongClick(ClickAndLongPress.java:44)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 0.027
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1185 KB/s (10317 bytes in 0.008s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.093
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1833 KB/s (10327 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 19.017
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1440 KB/s (10328 bytes in 0.007s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.711
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1061 KB/s (10328 bytes in 0.009s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 9.986
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1123 KB/s (10352 bytes in 0.009s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 10.821
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+2021 KB/s (10350 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testLongClick
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 13.858
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1854 KB/s (10449 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testSetText
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testSetText
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.273
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1461 KB/s (10474 bytes in 0.007s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testSetText
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testSetText
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 14.824
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClickAndLongPress...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClickAndLongPress.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1594 KB/s (10615 bytes in 0.006s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.ClickAndLongPress:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDelete
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDelete
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.ClickAndLongPress
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 11.928
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Gesture...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 3 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Gesture.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 10 seconds
+1941 KB/s (10933 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Gesture:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGesture
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Gesture
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGesture
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Gesture
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 6.637
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Gesture...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Gesture.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+971 KB/s (10941 bytes in 0.011s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Gesture:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGesture
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Gesture
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGesture
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Gesture
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 25.557
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Gesture...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Gesture.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1065 KB/s (10907 bytes in 0.010s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Gesture:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGesture
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Gesture
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGesture
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Gesture
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 22.11
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Gesture...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Gesture.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1138 KB/s (11073 bytes in 0.009s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Gesture:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPointerGesture
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Gesture
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPointerGesture
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Gesture
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 45.514
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+846 KB/s (11270 bytes in 0.013s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGet
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+HINTTo
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGet
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.532
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1397 KB/s (11446 bytes in 0.008s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.767
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1176 KB/s (11446 bytes in 0.009s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.82
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+2032 KB/s (11448 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.746
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+2045 KB/s (11524 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.06
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2500 KB/s (11524 bytes in 0.004s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.065
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+2486 KB/s (11459 bytes in 0.004s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.78
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1244 KB/s (11471 bytes in 0.009s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testGetChild:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[INDEX=3, PARENT=UiSelector[INDEX=5, RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_item_name], RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_details_item]
+
+	at com.android.uiautomator.core.UiObject.click(UiObject.java:392)
+
+	at com.eco.uiobject.Getter.testGetChild(Getter.java:37)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[INDEX=3, PARENT=UiSelector[INDEX=5, RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_item_name], RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_details_item]
+
+	at com.android.uiautomator.core.UiObject.click(UiObject.java:392)
+
+	at com.eco.uiobject.Getter.testGetChild(Getter.java:37)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.727
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1600 KB/s (11471 bytes in 0.007s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testGetChild:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[INDEX=3, PARENT=UiSelector[INDEX=5, RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_item_name], RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_details_item]
+
+	at com.android.uiautomator.core.UiObject.click(UiObject.java:392)
+
+	at com.eco.uiobject.Getter.testGetChild(Getter.java:37)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[INDEX=3, PARENT=UiSelector[INDEX=5, RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_item_name], RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_details_item]
+
+	at com.android.uiautomator.core.UiObject.click(UiObject.java:392)
+
+	at com.eco.uiobject.Getter.testGetChild(Getter.java:37)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.712
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+3753 KB/s (11532 bytes in 0.003s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testGetChild:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[INDEX=3, PARENT=UiSelector[INDEX=5, RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_item_name], RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_details_item]
+
+	at com.android.uiautomator.core.UiObject.click(UiObject.java:392)
+
+	at com.eco.uiobject.Getter.testGetChild(Getter.java:37)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[INDEX=3, PARENT=UiSelector[INDEX=5, RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_item_name], RESOURCE_ID=com.cyanogenmod.filemanager:id/navigation_view_details_item]
+
+	at com.android.uiautomator.core.UiObject.click(UiObject.java:392)
+
+	at com.eco.uiobject.Getter.testGetChild(Getter.java:37)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 14.035
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1501 KB/s (11533 bytes in 0.007s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testGetChild
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.012
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1417 KB/s (11612 bytes in 0.008s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testChecked
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testChecked
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.513
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1260 KB/s (11615 bytes in 0.009s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testChecked
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testChecked
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.704
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Getter...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Getter.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1340 KB/s (11667 bytes in 0.008s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Getter:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testChecked
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testChecked
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Getter
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.156
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Exists...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 5 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Exists.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2093 KB/s (11790 bytes in 0.005s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Exists:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+没有联系人
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testExists:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[RESOURCE_ID=UiDevice.getInstance().pressHome();]
+
+	at com.android.uiautomator.core.UiObject.click(UiObject.java:392)
+
+	at com.eco.uiobject.Exists.testExists(Exists.java:29)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[RESOURCE_ID=UiDevice.getInstance().pressHome();]
+
+	at com.android.uiautomator.core.UiObject.click(UiObject.java:392)
+
+	at com.eco.uiobject.Exists.testExists(Exists.java:29)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 18.598
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Exists...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Exists.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1096 KB/s (11790 bytes in 0.010s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Exists:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+没有联系人
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testExists:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[RESOURCE_ID=UiDevice.getInstance().pressHome();]
+
+	at com.android.uiautomator.core.UiObject.click(UiObject.java:392)
+
+	at com.eco.uiobject.Exists.testExists(Exists.java:29)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[RESOURCE_ID=UiDevice.getInstance().pressHome();]
+
+	at com.android.uiautomator.core.UiObject.click(UiObject.java:392)
+
+	at com.eco.uiobject.Exists.testExists(Exists.java:29)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:249)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 18.225
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Exists...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Exists.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1919 KB/s (11793 bytes in 0.006s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Exists:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+没有联系人
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 8.823
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Exists...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Exists.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1919 KB/s (11793 bytes in 0.006s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Exists:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+没有联系人
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 9.16
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Exists...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Exists.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1279 KB/s (11793 bytes in 0.009s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Exists:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.281
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Exists...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Exists.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+7684 KB/s (11811 bytes in 0.001s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Exists:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+没有联系人
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 13.052
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Exists...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Exists.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1655 KB/s (11868 bytes in 0.007s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiobject.Exists:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+没有联系人
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testExists
+
+INSTRUMENTATION_STATUS: class=com.eco.uiobject.Exists
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 13.274
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1061 KB/s (11963 bytes in 0.011s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiselector.Demo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testContacts
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testContacts
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.689
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1962 KB/s (12061 bytes in 0.006s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiselector.Matching:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testMatching
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Matching
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testMatching
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Matching
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.775
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+1385 KB/s (12062 bytes in 0.008s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiselector.Matching:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testMatching
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Matching
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testMatching
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Matching
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.729
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+3927 KB/s (12065 bytes in 0.003s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiselector.Matching:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testMatching
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Matching
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testMatching
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Matching
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.672
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Demo...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 3 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Demo.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 7 seconds
+1962 KB/s (12062 bytes in 0.006s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiselector.Demo:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testContacts
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testContacts
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Demo
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.736
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for Description...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\Description.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+1083 KB/s (12207 bytes in 0.011s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiselector.Description:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDesc
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Description
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDesc
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.Description
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.642
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for ClassName...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 3 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\ClassName.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+3428 KB/s (12288 bytes in 0.003s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiselector.ClassName:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClassAndName
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.ClassName
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testClassAndName
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.ClassName
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.691
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+Buildfile: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at F:\adt-bundle-windows-x86_64-20140702\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.1
+     [echo] Resolving Build Target for IndexAndInstance...
+[getuitarget] Project Target:   Android 5.0.1
+[getuitarget] API level:        21
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 3 source files to F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\adt-bundle-windows-x86_64-20140702\workspace\UIAutomatorTest\bin\IndexAndInstance.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+1728 KB/s (12394 bytes in 0.007s)
+WARNING: linker: libhoudini.so has text relocations. This is wasting memory and prevents security hardening. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.eco.uiselector.IndexAndInstance:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testIndexAndInstance
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.IndexAndInstance
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testIndexAndInstance
+
+INSTRUMENTATION_STATUS: class=com.eco.uiselector.IndexAndInstance
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.886
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
